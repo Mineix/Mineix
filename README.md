@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mineix
+- 👋 Hi, I’m @Me
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to Code
 - 💞️ I’m a stundent of EST Tettnang
